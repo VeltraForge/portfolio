@@ -563,7 +563,6 @@ a {
   height: 100px;
   object-fit: contain;
   flex-shrink: 0;
-  mix-blend-mode: screen;
 }
 
 .contact-info {
