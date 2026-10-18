@@ -559,10 +559,11 @@ a {
 }
 
 .footer-logo {
-  width: 76px;
-  height: 76px;
+  width: 100px;
+  height: 100px;
   object-fit: contain;
   flex-shrink: 0;
+  mix-blend-mode: screen;
 }
 
 .contact-info {
