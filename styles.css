@@ -101,7 +101,7 @@ a {
   line-height: 1;
 }
 
-.grav-text {
+.veltra-text {
   color: var(--ember);
 }
 
@@ -181,12 +181,12 @@ a {
   line-height: 1;
 }
 
-.grav,
+.veltra,
 .forge {
   font-size: clamp(1.15rem, 1.8vw, 2.05rem);
 }
 
-.grav {
+.veltra {
   color: rgba(240, 244, 247, 0.9);
 }
 
